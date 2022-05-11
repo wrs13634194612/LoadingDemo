@@ -1,2 +1,2 @@
-# LoadingDemo
-自定义view实现加载动画
+# MathGame2
+School project for IT School Samsung
